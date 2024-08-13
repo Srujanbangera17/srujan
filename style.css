@@ -1,0 +1,38 @@
+
+.heading{
+    text-align: center;
+        color: rgb(107, 112, 121);
+        font-family: 'Times New Roman', Times, serif;
+         background-color: aquamarine;
+         border: 5px black outset;
+        
+}
+
+.hello{
+    
+   font-family:'Times New Roman', Times, serif;
+   color: rgb(228, 22, 22);
+   background-color: rgb(44, 158, 158);
+   border: 10px black outset;
+    text-align: center;
+
+}
+
+.end{
+
+    text-align: center;
+    font-weight: 200;
+}
+
+.list{
+    list-style:none;
+   
+}
+
+.image{
+    height:250px;
+        width: 250px;
+    
+    
+    
+}
